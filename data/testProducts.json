@@ -1,0 +1,76 @@
+{
+  "E-001": {
+    "productId": "E-001",
+    "name": "diaper",
+    "deliveryDays": [
+      5,
+      6,
+      0
+    ],
+    "productType": "external",
+    "daysInAdvance": 5
+  },
+  "N-001": {
+    "productId": "N-001",
+    "name": "milk",
+    "deliveryDays": [
+      1,
+      2,
+      5,
+      0
+    ],
+    "productType": "normal",
+    "daysInAdvance": 1
+  },
+  "T-001": {
+    "productId": "T-001",
+    "name": "beer",
+    "deliveryDays": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      0
+    ],
+    "productType": "temporary",
+    "daysInAdvance": 2
+  },
+  "E-002": {
+    "productId": "E-002",
+    "name": "lychee",
+    "deliveryDays": [
+      5,
+      6,
+      0
+    ],
+    "productType": "external",
+    "daysInAdvance": 5
+  },
+  "N-002": {
+    "productId": "N-002",
+    "name": "apple",
+    "deliveryDays": [
+      1,
+      2,
+      5,
+      6
+    ],
+    "productType": "normal",
+    "daysInAdvance": 2
+  },
+  "T-002": {
+    "productId": "T-002",
+    "name": "banana",
+    "deliveryDays": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      0
+    ],
+    "productType": "temporary",
+    "daysInAdvance": 2
+  }
+}

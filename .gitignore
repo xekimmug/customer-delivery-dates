@@ -1,0 +1,12 @@
+# dependencies
+/node_modules
+
+# configuration files for IDEs
+/.idea
+.vscode/settings.json
+
+# compiled js files from the ts files
+/built
+
+# test reports
+/junit.xml
